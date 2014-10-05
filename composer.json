@@ -1,0 +1,21 @@
+{
+    "name": "ptheofan/binpacking2d",
+    "description": "BinPacking implementation in PHP",
+    "keywords": ["binpacking", "php"],
+    "type": "php-lib",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Paris Theofanidis",
+            "email": "ptheofan@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "ptheofan\\binpacking2d\\": ""
+        }
+    }
+}
