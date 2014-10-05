@@ -1,8 +1,8 @@
 {
     "name": "ptheofan/binpacking2d",
     "description": "BinPacking implementation in PHP",
-    "keywords": ["binpacking", "php"],
-    "type": "php-lib",
+    "keywords": ["yii2", "extension", "binpacking", "php"],
+    "type": "yii2-extension",
     "license": "BSD-3-Clause",
     "authors": [
         {
@@ -11,7 +11,7 @@
         }
     ],
     "require": {
-        "php": "*"
+        "yiisoft/yii2": "*"
     },
     "autoload": {
         "psr-4": {

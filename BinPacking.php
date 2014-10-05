@@ -8,6 +8,8 @@
 
 namespace ptheofan\binpacking2d;
 
+use yii\base\Object;
+
 /**
  * Class BinPacking
  * @package ptheofan\binpacking2d
@@ -15,7 +17,7 @@ namespace ptheofan\binpacking2d;
  * The implementation is based on the js bin packing implementation at
  * https://github.com/jakesgordon/bin-packing
  */
-class BinPacking
+class BinPacking extends Object
 {
     public $w = null;
     public $h = null;

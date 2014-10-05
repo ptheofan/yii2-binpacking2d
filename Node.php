@@ -8,7 +8,9 @@
 
 namespace ptheofan\binpacking2d;
 
-class Node implements INode
+use yii\base\Object;
+
+class Node extends Object implements INode
 {
     public $x = 0;
     public $y = 0;
