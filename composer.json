@@ -1,5 +1,5 @@
 {
-    "name": "ptheofan/binpacking2d",
+    "name": "ptheofan/yii2-binpacking2d",
     "description": "BinPacking implementation in PHP",
     "keywords": ["yii2", "extension", "binpacking", "php"],
     "type": "yii2-extension",
